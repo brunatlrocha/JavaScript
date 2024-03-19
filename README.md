@@ -1,2 +1,2 @@
-# JavaScript - Emoji Project
+# Emoji Project - JS
 The objective of the project was to create HTML elements using JavaScript and the provided files to dynamically create an emoji gallery.
