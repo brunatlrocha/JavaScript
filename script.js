@@ -1,5 +1,5 @@
 //Function to create section for each type of pokemon
-function createTypeSections(types) 
+function createTypeSections(types) {
   types.forEach(type => {
     const typeSection = document.createElement('section');
     typeSection.id = type.toLowerCase();
